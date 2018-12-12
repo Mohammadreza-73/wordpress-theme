@@ -1,0 +1,158 @@
+@media (max-width:1199px) {
+  .searcharea input {
+    width: 85%;
+  }
+  .logoarea h1 {
+    margin-left: 60px;
+  }
+  .logoarea h3 {
+    margin-left: 60px;
+  }
+
+
+@media (max-width: 991px) {
+  .logoarea h1 {
+    font-size: 18px;
+  }
+  .logoarea h3 {
+    font-size: 14px !important;
+  }
+  .searcharea input {
+    width: 84%;
+  }
+  .navbar ul {
+    font-size: 14px;
+  }
+  .navbar ul li a {
+    padding: 12px;
+  }
+  .support span.text {
+    font-size: 15px;
+  }
+  .support span.call {
+    font-size: 15px;
+  }
+  .support span.call i {
+    font-size: 15px;
+  }
+  .footer h4 {
+    font-size: 15px;
+  }
+  .footer section ul {
+    font-size: 12px;
+  }
+  .footer section span {
+    font-size: 12px;
+  }
+  .rss input {
+    width: 73%;
+    width: 73%;
+    margin-right: 20px;
+    padding: 7px;
+  }
+  .rss button {
+    font-size: 14px;
+    padding: 3px;
+  }
+  .rss {
+    height: 40px;
+    font-size: 14px;
+  }
+  .appllication a.android {
+    font-size: 14px;
+    padding: 7px;
+  }
+  .appllication a.ios {
+    font-size: 14px;
+    padding: 7px;
+  }
+  .pagination {
+    width: 305px;
+  }
+}
+
+@media (max-width: 767px) {
+  .logoarea img {
+    float: none;
+    margin: 0 191px;
+  }
+  .logoarea h1 {
+    text-align: center;
+    margin: 0 auto;
+  }
+  .logoarea h3 {
+    text-align: center;
+    margin: 5px auto;
+  }
+  .appllication {
+    margin-right: 82px;
+  }
+  .title a {
+    font-size: 13px;
+  }
+  .title h3 {
+    font-size: 16px;
+  }
+  .product-box header h5 {
+    font-size: 12px;
+  }
+  .price {
+    font-size: 12px;
+  }
+  .add-to-cart {
+    padding: 7px;
+    margin-top: 5px;
+  }
+  .product-box header.article-box h5 {
+    font-size: 12px;
+  }
+  .date {
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .topbar {
+    text-align: center;
+  }
+  .logoarea img {
+    margin-left: 212px;
+  }
+  .logoarea h1 {
+    margin-left: 2px;
+  }
+  .logoarea h3 {
+    margin-left: 2px;
+  }
+}
+
+@media (max-width: 320px) {
+    .logoarea img {
+      margin-right: 78px;
+    }
+    .title a {
+      padding: 5px 10px;
+    }
+    .appllication {
+      display: none;
+    }
+    .rss input {
+      width: 68%;
+    }
+    .pagination {
+      width: 235px;
+    }
+    .pagination a {
+      width: 35px;
+      height: 35px;
+      padding: 6px 13px;
+      margin: 0px 5px;
+      font-size: 15px;
+    }
+    .not-found p {
+      font-size: 18px;
+    }
+    .return a {
+      font-size: 14px;
+    }
+}
